@@ -85,8 +85,8 @@ Scripts/package_app.sh
 open build/Putaway.app
 ```
 
-This needs Xcode 26 or later.
 
 ## License
 
 MIT
+thenks
